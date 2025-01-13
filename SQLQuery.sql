@@ -1,5 +1,5 @@
 ﻿-- Tạo cơ sở dữ liệu
-CREATE DATABASE CuaHangDienTu;
+CREATE DATABASE CuaHangBanQuanAo;
 GO
 
 USE CuaHangDienTu;
